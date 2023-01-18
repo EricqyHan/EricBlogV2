@@ -11,3 +11,10 @@ tags: ["2023", "blogging", "communitytaught"]
 ---
 
 Short post today. Didn't really get any sleep yesterday after work. I passed out from 10:30 PM to almost 1:00 PM Saturday. Found out yesterday that something broke on my site. I need to get that fixed. Don't know why none of my posts are getting pushed.
+
+# Git and Github
+
+## What exactly is Git
+
+A version control system (VCS) that helps manage and track changes to files over time. This helps with huge teams working on a project. 
+
