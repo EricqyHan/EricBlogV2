@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Getting Covid?"
-pubDate: 2023-01-17
-description: "Getting Sick"
+title: "False Negative"
+pubDate: 2023-01-18
+description: "Getting Covid?"
 author: "Eric Han"
 image:
   url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
@@ -10,4 +10,4 @@ image:
 tags: ["2023", "blogging", "communitytaught"]
 ---
 
-I think I'm getting sick. Feel the chills and sore throat. Thankfully I took a covid test and it said I was negative. Hopefully work won't be that bad tonight.
+I have a slight fever and non stop coughing. I think it was a false negative yesterday. I might have Covid.
