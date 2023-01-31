@@ -10,4 +10,4 @@ image:
 tags: ["2023", "blogging", "communitytaught"]
 ---
 
-Today was mom's birthday. Too bad my sister could not come home for fear of still catching Corona. Hopefully we can celebrate on Saturday with her.
+Today was mom's birthday. Too bad my sister could not come home for fear of still catching Corona. Hopefully we can celebrate on Saturday with her. We made sure to have some noodles like the Chinese tradition and no dumplings.
