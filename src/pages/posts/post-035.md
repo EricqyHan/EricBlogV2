@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Super Bowl Sunday"
-pubDate: 2023-02-012
+pubDate: 2023-02-12
 description: "Super Bowl Sunday"
 author: "Eric Han"
 image:
