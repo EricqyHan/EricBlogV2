@@ -5,9 +5,9 @@ const { pageTitle } = Astro.props;
 
 const identity = {
   firstName: "Eric",
-  country: "USA",
-  occupation: "IT",
-  hobbies: ["Running", "MMA", "Olympic Weightlifting"],
+  state: "New Jersey",
+  occupation: "IT Specialist",
+  hobbies: ["Running", "MMA", "Olympic Weightlifting", "Cooking"],
 };
 
 const skills = [
@@ -19,6 +19,7 @@ const skills = [
   "SQL",
   "Excel",
   "Power Apps",
+  "Power Bi",
 ];
 
 const happy = true;
@@ -33,7 +34,7 @@ const textCase = "uppercase";
 <BaseLayout pageTitle={pageTitle}>
   <h2>... and my new Astro site!</h2>
 
-  <p>
+  <!-- <p>
     I am working through Astro's introductory tutorial. This is the second page
     on my website, and it's the first one I built myself!
   </p>
@@ -53,12 +54,12 @@ const textCase = "uppercase";
     ) : (
       <p>My goal is not 3 days.</p>
     )
-  }
+  } -->
 
   <p>Here are a few facts about me:</p>
   <ul>
     <li>My name is {identity.firstName}.</li>
-    <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
+    <li>I live in {identity.state} and I work as a {identity.occupation}.</li>
     {
       identity.hobbies.length >= 2 && (
         <li>
