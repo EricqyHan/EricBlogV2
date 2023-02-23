@@ -22,6 +22,10 @@ h1 {
 
 /* nav styles */
 
+ul {
+  list-style-type: none;
+}
+
 .hamburger {
   padding-right: 20px;
   cursor: pointer;

@@ -23,4 +23,38 @@ const pageTitle = "My Astro Learning Blog";
       ))
     }
   </ul>
+
+  <table>
+    <tr>
+      <th>Title</th>
+      <th>Date Posted</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          {
+            allPosts.map((post) => (
+              <>
+                <BlogPost url={post.url} title={post.frontmatter.title} />
+              </>
+            ))
+          }
+        </ul></td
+      >
+      <td>
+        <ul>
+          {
+            allPosts.map((post) => (
+              <>
+                <BlogPost
+                  url={post.url}
+                  title={post.frontmatter.pubDate.slice(0, 10)}
+                />
+              </>
+            ))
+          }
+        </ul></td
+      >
+    </tr>
+  </table>
 </BaseLayout>
