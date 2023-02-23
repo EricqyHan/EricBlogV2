@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Post 40"
+title: "Finally displaying both date and title in a table"
 pubDate: 2023-02-22
 description: ""
 author: "Eric Han"
@@ -10,4 +10,4 @@ image:
 tags: ["2023", "blogging", "communitytaught"]
 ---
 
-Git Workflows is an awesome way for me to practice Git and learn more about it.
+Finally displaying date and blog title in one line on a table. Let's see how people like it.
