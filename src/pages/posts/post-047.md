@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Planning the weekend"
-pubDate: 2023-03-02
+title: "Weekend Over and 12 weeks left here"
+pubDate: 2023-03-5
 description: "Plan Weekend Layoffs"
 author: "Eric Han"
 image:
@@ -12,4 +12,4 @@ image:
 tags: ["2023", "blogging", "Layoffs", "Weekend"]
 ---
 
-Last shift of the week again. I've been through so many of these by now. Contract ends on June 1. It's time to get my app online. It's 100DEVS TIME!. Time to work two jobs and get this stuff done.
+Unfortunately it was a lathargic weekend. I didn't have much energy to do coding. I did get some sun today and did a workout under the sun. It felt nice to be outside. Got dinner with a friend and talked about getting motivated to get our projects done.

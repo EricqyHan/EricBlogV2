@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Layoffs"
-pubDate: 2023-02-28
+pubDate: 2023-03-01
 description: "Layoffs in 90 days"
 author: "Eric Han"
 image:
