@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Find A New Job"
 pubDate: 2023-05-04
-description: "May 4"
+description: "May The Fourth Be With You"
 author: "Eric Han"
 image:
   url:
