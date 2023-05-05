@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Find A New Job"
-pubDate: 2023-05-03
-description: "May 3"
+pubDate: 2023-05-04
+description: "May 4"
 author: "Eric Han"
 image:
   url:
@@ -12,4 +12,4 @@ image:
 tags: ["2023", "blogging", "weeks left", "May"]
 ---
 
-I have 21 shifts left here. I need to find a new job or I will be unemployed after June 1.
+Happy Star Wars Day. I will have 20 shifts left after tonight. Have not found a job yet. What is my next step after Tiffany and Co?
