@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "16 Shifts left before I am unemployed again"
-pubDate: 2023-05-09
+pubDate: 2023-05-10
 description: "16 Shifts Left"
 author: "Eric Han"
 image:
