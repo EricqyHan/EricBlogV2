@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Final Night at Work"
-pubDate: 2023-05-31
-description: "Final night at work"
+title: "Last three hours"
+pubDate: 2023-06-1
+description: "Last three hours"
 author: "Eric Han"
 image:
   url:
@@ -12,4 +12,4 @@ image:
 tags: ["2023", "blogging", "weeks left", "May", "QR Code"]
 ---
 
-Tonight will be my final full night here at Tiffany. I will have one more shift tomorrow for three hours and that it is. It's been a long journey. I'm excited to see where I find my next place of employment.
+My last three hours begins in about 25 minutes. It's been a fun ride. Time to finish off strong and see who I can help out before I leave.
