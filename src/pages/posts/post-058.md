@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Find A New Job"
+title: "Find A New Job With 21 Shifts Left"
 pubDate: 2023-05-03
 description: "May 3"
 author: "Eric Han"

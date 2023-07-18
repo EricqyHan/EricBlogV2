@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "False Negative"
+title: "Covid"
 pubDate: 2023-01-20
 description: "Got Covid"
 author: "Eric Han"

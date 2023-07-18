@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "My First Blog Post"
+title: "Lots of Sleep"
 pubDate: 2023-01-14
 description: "Something Broke"
 author: "Eric Han"
@@ -16,5 +16,4 @@ Short post today. Didn't really get any sleep yesterday after work. I passed out
 
 ## What exactly is Git
 
-A version control system (VCS) that helps manage and track changes to files over time. This helps with huge teams working on a project. 
-
+A version control system (VCS) that helps manage and track changes to files over time. This helps with huge teams working on a project.

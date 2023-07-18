@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Getting Old"
-pubDate: 2023-04-010
-description: "Sunday Night Again"
+pubDate: 2023-04-11
+description: "Getting Old"
 author: "Eric Han"
 image:
   url:

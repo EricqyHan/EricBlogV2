@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: My 10th blog post - Shin Splints
-author: Astro Learner
+author: Eric Han
 description: "This post will show up on its own!"
 image:
   url: "https://astro.build/assets/hero_NkT0b.avif"

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Last three hours"
-pubDate: 2023-06-1
+pubDate: 2023-06-01
 description: "Last three hours"
 author: "Eric Han"
 image:

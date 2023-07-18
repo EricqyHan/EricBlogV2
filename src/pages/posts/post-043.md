@@ -5,9 +5,7 @@ pubDate: 2023-02-27
 description: "Return to MMA"
 author: "Eric Han"
 image:
-  url:
-    "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
-    # url: "../../images/PlateMath.png"
+  url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
   alt: "The Astro logo with the word One."
 tags: ["2023", "blogging", "MMA"]
 ---

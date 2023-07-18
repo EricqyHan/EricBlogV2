@@ -5,9 +5,7 @@ pubDate: 2023-05-01
 description: "It's going to be May"
 author: "Eric Han"
 image:
-  url:
-    "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
-    # url: "../../images/PlateMath.png"
+  url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
   alt: "The Astro logo with the word One."
 tags: ["2023", "blogging", "weeks left", "lose weight"]
 ---

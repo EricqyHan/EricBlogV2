@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Sleeping Issues"
-pubDate: 2023-04-010
+pubDate: 2023-04-10
 description: "Sunday Night Again"
 author: "Eric Han"
 image:

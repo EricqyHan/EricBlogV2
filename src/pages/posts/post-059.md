@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Find A New Job"
+title: "Find A New Job And Only 20 Shifts Left"
 pubDate: 2023-05-04
 description: "May The Fourth Be With You"
 author: "Eric Han"

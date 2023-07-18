@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Recovering from Covid"
+title: "Recovering from Covid - Part 2"
 pubDate: 2023-01-24
 description: "Covid Recovery Continued"
 author: "Eric Han"

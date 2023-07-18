@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Day 4 of coding in 2023"
+title: "Day Sixteen of Coding in 2023"
 pubDate: 2023-01-16
 description: "Day 4 of coding"
 author: "Eric Han"

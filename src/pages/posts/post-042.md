@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "It's Sunday Night. I build a plate calculator"
+title: "It's Sunday Night. I built a plate calculator"
 pubDate: 2023-02-26
 description: "Sunday Night? I build a plate calculator"
 author: "Eric Han"

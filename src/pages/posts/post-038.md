@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Finally Friday"
+title: "Rebuilt Blog Again"
 pubDate: 2023-02-16
 description: "Finally Friday and finishing my blog"
 author: "Eric Han"

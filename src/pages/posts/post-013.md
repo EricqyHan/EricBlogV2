@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Last Shift of the Week
-author: Astro Learner
+title: Friday the 13th
+author: "Eric Han"
 description: "This post will show up on its own!"
 image:
   url: "https://astro.build/assets/hero_NkT0b.avif"

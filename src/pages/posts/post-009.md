@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "Second Monday of the Year"
 pubDate: 2023-01-09
 description: "Second Monday of the Year"
-author: "Eric Han"
+author: Eric Han
 image:
   url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
   alt: "The Astro logo with the word One."

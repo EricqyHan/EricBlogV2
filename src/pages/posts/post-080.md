@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Sleeping on a Sunday Night"
-pubDate: 2023-06-4
+pubDate: 2023-06-04
 description: "Sleeping on a Sunday Night"
 author: "Eric Han"
 image:

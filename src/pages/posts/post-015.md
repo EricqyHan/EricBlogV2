@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "My First Blog Post"
+title: "Rebuilt Blog"
 pubDate: 2023-01-15
 description: "Something Broke"
 author: "Eric Han"
