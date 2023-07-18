@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "PI Day"
-pubDate: 2023-03-015
+title: "PI Day Plus One"
+pubDate: 2023-03-15
 description: "Plan Weekend Layoffs"
 author: "Eric Han"
 image:

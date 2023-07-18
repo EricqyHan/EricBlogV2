@@ -9,7 +9,7 @@ image:
     "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
     # url: "../../images/PlateMath.png"
   alt: "The Astro logo with the word One."
-tags: ["2023", "blogging", "weeks left", "May", "QR Code"]
+tags: ["2023", "blogging", "weeks left", "June", "QR Code"]
 ---
 
 My last three hours begins in about 25 minutes. It's been a fun ride. Time to finish off strong and see who I can help out before I leave.

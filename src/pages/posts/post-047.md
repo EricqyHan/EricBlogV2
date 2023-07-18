@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Weekend Over and 12 weeks left here"
-pubDate: 2023-03-5
+pubDate: 2023-03-05
 description: "Plan Weekend Layoffs"
 author: "Eric Han"
 image:

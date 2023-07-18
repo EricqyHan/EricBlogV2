@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Blog dedicated to Excel, Power Apps, and Power B"
+title: "Blog dedicated to Excel, Power Apps, and Power BI"
 pubDate: 2023-05-26
 description: "Dedicated Blog"
 author: "Eric Han"

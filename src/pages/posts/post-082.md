@@ -1,15 +1,15 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "PI Day"
-pubDate: 2023-03-14
-description: "Plan Weekend Layoffs"
+title: "Hello Darkness, My Old Friend"
+pubDate: 2023-07-18
+description: "Hello Darkness, My Old Friend"
 author: "Eric Han"
 image:
   url:
     "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
     # url: "../../images/PlateMath.png"
   alt: "The Astro logo with the word One."
-tags: ["2023", "blogging", "PI Day"]
+tags: ["2023", "break", "long time", "July"]
 ---
 
-I have not had an idea to blog about for a few days. I'm blogging today because it is Pi Day!
+Hello darkness, my old friend. It's been sometime since I have updated my blog. I'm back!

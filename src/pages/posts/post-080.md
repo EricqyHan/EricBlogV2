@@ -9,7 +9,7 @@ image:
     "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
     # url: "../../images/PlateMath.png"
   alt: "The Astro logo with the word One."
-tags: ["2023", "blogging", "weeks left", "May", "QR Code"]
+tags: ["2023", "blogging", "weeks left", "June", "QR Code"]
 ---
 
 First Sunday in months where I don't have to stay up all night. I get to sleep like a normal person again!
