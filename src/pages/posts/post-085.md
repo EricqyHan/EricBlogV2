@@ -1,15 +1,15 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Two Months Unemployed"
-pubDate: 2023-08-03
-description: "Two Months Unemployed"
+title: "Great Wolf Lodge"
+pubDate: 2023-08-05
+description: "Great Wolf Lodge"
 author: "Eric Han"
 image:
   url:
     "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
     # url: "../../images/PlateMath.png"
   alt: "The Astro logo with the word One."
-tags: ["2023", "August"]
+tags: ["2023", "August", "Water Park"]
 ---
 
-I have been unemployed for two months now. Technically yesterday was the two month mark. It's been rough.
+Went to Great Wolf Lodge for the first time today. It was a fun place. Need to get back to coding now.
