@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "New Monitors"
 pubDate: 2023-08-26
-description: "Ahsoka"
+description: "New Monitor"
 author: "Eric Han"
 image:
   url:
