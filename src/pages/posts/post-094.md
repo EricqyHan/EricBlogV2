@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "Ahsoke Episode 5"
+title: "Ahsoka Episode 5"
 pubDate: 2023-09-12
 description: "Ahsoka Episode 5"
 author: "Eric Han"
