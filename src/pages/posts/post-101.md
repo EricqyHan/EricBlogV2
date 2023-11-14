@@ -11,3 +11,5 @@ image:
   alt: "The Astro logo with the word One."
 tags: ["2023", "November", "Marvels"]
 ---
+
+Just saw The Marvels and had fun. Don't know why everyone is hate reviewing it.
